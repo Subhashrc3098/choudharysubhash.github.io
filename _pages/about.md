@@ -14,7 +14,7 @@ Recent Preprints
 ------
 - [Orthonormal Strichartz estimates on torus and waveguide manifold and applications](https://arxiv.org/pdf/2507.16712) with [Divyang Bhimani](https://sites.google.com/site/divyangbhimani/home-1)
   
-
+------
 
 Contact
 ------
