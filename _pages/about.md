@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I work as a Senior Research Fellow at the Indian Institute of science education and research, Pune. My area of study is harmonic analysis and nonlinear evolution equations, especially the Schrodinger equation. My current interest lies in Fourier analysis, spectral theory and dispersive equations. My research area is the Strichartz estimates for orthonormal systems and estimates involving dispersive estimates on compact manifolds, including the torus manifold and waveguide manifolds.
-
+I work as a Senior Research Fellow at the Indian Institute of Science Education and Research, Pune, under the supervision of Dr. Divyang Bhimani. My area of study is harmonic analysis and nonlinear evolution equations, especially the Schrodinger equation. My research area is the Strichartz estimates for orthonormal systems and estimates involving dispersive estimates on compact manifolds, including the torus manifold and waveguide manifolds.
 
 Recent Preprints
 ------
-- Orthonormal Strichartz estimates on torus and waveguide manifold and applications
+- Orthonormal Strichartz estimates on torus and waveguide manifold and applications with Divyang Bhimani.
+  (https://arxiv.org/pdf/2507.16712)
 
 
 Contact
