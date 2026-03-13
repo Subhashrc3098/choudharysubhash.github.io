@@ -12,7 +12,8 @@ I work as a Senior Research Fellow at the Indian Institute of Science Education 
 ------
 Recent Preprints
 ------
-- [Orthonormal Strichartz estimates on torus and waveguide manifold and applications](https://arxiv.org/pdf/2507.16712) with [Divyang Bhimani](https://sites.google.com/site/divyangbhimani/home-1)
+- [Orthonormal Strichartz estimates on torus and waveguide manifold and applications](https://arxiv.org/pdf/2507.16712) with [D. G. Bhimani](https://sites.google.com/site/divyangbhimani/home-1)
+- [Refined Strichartz estimates and their orthornomal counterparts for Schr\" odinger equations on torus](https://arxiv.org/pdf/2601.20515) with [D. G. Bhimani](https://sites.google.com/site/divyangbhimani/home-1) and [S. S. Mondal](https://sites.google.com/view/shyam-swarup-mondal/home)
   
 ------
 
