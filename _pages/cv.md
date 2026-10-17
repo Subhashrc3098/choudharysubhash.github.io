@@ -27,15 +27,15 @@ redirect_from:
 
 ## Talks
 
-- **Pointwise Convergence for Orthonormal Systems of Linear Schrödinger Equations**
-*Forum on Modulation Spaces and Regularity Theory in Harmonic Analysis and Partial Differential Equations (FMSRT 2026)*,
-Kerala School of Mathematics (KSoM), Kozhikode, India, 2026.
-Conference Talk.
-
 - **Ph.D. Pre-synopsis Seminar**
 *Department of Mathematics*,
 Indian Institute of Science Education and Research (IISER), Pune, India, October 2026.
 Seminar Talk.
+
+- **Pointwise Convergence for Orthonormal Systems of Linear Schrödinger Equations**
+*Forum on Modulation Spaces and Regularity Theory in Harmonic Analysis and Partial Differential Equations (FMSRT 2026)*,
+Kerala School of Mathematics (KSoM), Kunnamangalam, Kozhikode, India, June 29 – July 3, 2026.
+Conference Talk.
 
 - **Orthonormal Strichartz Estimates on the Torus and Waveguide Manifolds and Applications**
 *Indo-European Conference on Mathematics*,
@@ -48,6 +48,7 @@ Conference Talk.
 - Workshop on Harmonic Analysis: Fourier Multipliers and Related Topics, Harish-Chandra Research Institute (HRI), 2024.
 - Selected participant, National Conference on Modern Workshops (NCMW) — WHAOT, 2025.
 - Indo-European Conference on Mathematics (IECM), jointly organized by the European Mathematical Society and the (Indian) Mathematics Consortium, Pune, India, January 12–16, 2026.
+- Forum on Modulation Spaces and Regularity Theory in Harmonic Analysis and Partial Differential Equations (FMSRT 2026), Kerala School of Mathematics, Kozhikode, India, June 29 – July 3, 2026.
 
 ## Teaching
 
