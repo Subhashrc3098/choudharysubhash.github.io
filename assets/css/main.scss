@@ -41,3 +41,10 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* Selected menu tab: bold, no underline */
+.masthead__menu-item.selected a,
+.masthead__menu-item.selected a:hover {
+  font-weight: 700;
+  border-bottom: none;
+}
