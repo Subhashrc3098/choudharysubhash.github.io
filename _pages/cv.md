@@ -21,6 +21,7 @@ redirect_from:
 
 ## Preprints
 
+- Divyang G. Bhimani and Subhash Ranjan Choudhary, **Pointwise convergence for single-particle Schrödinger equation and Schrödinger equation with infinitely many particles on the torus and waveguide manifolds**, [arXiv:2609.15363](https://arxiv.org/abs/2609.15363).
 - Divyang G. Bhimani, Subhash Ranjan Choudhary and S. S. Mondal, **Refined Strichartz estimates and their orthonormal counterparts for Schrödinger equations on torus**, [arXiv:2601.20515](https://arxiv.org/abs/2601.20515).
 - Divyang G. Bhimani and Subhash Ranjan Choudhary, **Orthonormal Strichartz estimates on torus and waveguide manifold and applications**, [arXiv:2507.16712](https://arxiv.org/abs/2507.16712).
 
