@@ -42,9 +42,10 @@
     "vendor/font-awesome/brands"
 ;
 
-/* Selected menu tab: bold, no underline */
+/* Selected menu tab: bold, blue text and blue underline */
 .masthead__menu-item.selected a,
 .masthead__menu-item.selected a:hover {
   font-weight: 700;
-  border-bottom: none;
+  color: #1a73e8;
+  border-bottom: 2px solid #1a73e8;
 }
