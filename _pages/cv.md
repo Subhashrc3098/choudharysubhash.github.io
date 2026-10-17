@@ -55,4 +55,7 @@ Conference Talk.
 - Qualified Joint Admission Test for M.Sc. (JAM), Mathematics, 2019
 
 ## References
-- Dr. Divyang G. Bhimani, IISER Pune, India (Ph.D. supervisor)
+
+- [Dr. Divyang G. Bhimani](https://sites.google.com/site/divyangbhimani/home-1) (Ph.D. supervisor), Department of Mathematics, IISER Pune, India — [divyang.bhimani@iiserpune.ac.in](mailto:divyang.bhimani@iiserpune.ac.in)
+- [Prof. K. Sandeep](https://www.math.tifrbng.res.in/en/people/sandeep), TIFR Centre for Applicable Mathematics, Bangalore, India — [sandeep@tifrbng.res.in](mailto:sandeep@tifrbng.res.in)
+- [Prof. Anup Biswas](https://sites.google.com/view/anupbiswas/home), Department of Mathematics, IISER Pune, India — [anup@iiserpune.ac.in](mailto:anup@iiserpune.ac.in)
