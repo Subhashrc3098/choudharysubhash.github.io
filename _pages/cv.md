@@ -27,6 +27,11 @@ redirect_from:
 
 ## Talks
 
+- **Pointwise Convergence for Orthonormal Systems of Linear Schrödinger Equations**
+*Forum on Modulation Spaces and Regularity Theory in Harmonic Analysis and Partial Differential Equations (FMSRT 2026)*,
+Kerala School of Mathematics (KSoM), Kozhikode, India, 2026.
+Conference Talk.
+
 - **Ph.D. Pre-synopsis Seminar**
 *Department of Mathematics*,
 Indian Institute of Science Education and Research (IISER), Pune, India, October 2026.
@@ -46,7 +51,11 @@ Conference Talk.
 
 ## Teaching
 
-- **Teaching Assistant**, Department of Mathematics, IISER Pune — tutorials, problem-solving sessions, and grading for undergraduate and graduate mathematics courses.
+- **Teaching Assistant**, Department of Mathematics, IISER Pune — assisted with tutorials, problem-solving sessions, and grading for undergraduate and graduate mathematics courses:
+  - Calculus I
+  - Calculus II
+  - Real Analysis
+  - Introduction to Probability
 
 ## Fellowships and Awards
 - NBHM Fellowship for Ph.D. studies, IISER Pune
@@ -54,6 +63,14 @@ Conference Talk.
 - Qualified NBHM Screening Test (Mathematics), 2021
 - AIR 2, BHU Entrance Test for M.Sc. (Mathematics), 2019
 - Qualified Joint Admission Test for M.Sc. (JAM), Mathematics, 2019
+
+## Technical Skills
+
+- LaTeX, Programming in C
+
+## Languages
+
+- English (professional proficiency), Hindi (native)
 
 ## References
 
