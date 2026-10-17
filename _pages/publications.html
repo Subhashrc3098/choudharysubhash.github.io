@@ -1,36 +1,25 @@
 ---
-layout: archive
+layout: default
 title: "Publications"
 permalink: /publications/
-author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<h3>🎓 Publications</h3>
 
-{% include base_path %}
+<ul>
+  <li>
+    <strong>Refined Strichartz estimates and their orthonormal counterparts for Schrödinger equations on torus</strong><br>
+    <strong>Authors:</strong> Divyang G. Bhimani, Subhash Ranjan Choudhary, S. S. Mondal<br>
+    <strong>Conference:</strong> -<br>
+    <strong>Journal Version:</strong> -<br>
+    <strong>Link:</strong> <a href="https://arxiv.org/abs/2601.20515">arXiv</a>
+  </li>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
-
-
-
+  <li>
+    <strong>Orthonormal Strichartz estimates on torus and waveguide manifold and applications</strong><br>
+    <strong>Authors:</strong> Divyang G. Bhimani, Subhash Ranjan Choudhary<br>
+    <strong>Conference:</strong> -<br>
+    <strong>Journal Version:</strong> -<br>
+    <strong>Link:</strong> <a href="https://arxiv.org/abs/2507.16712">arXiv</a>
+  </li>
+</ul>
